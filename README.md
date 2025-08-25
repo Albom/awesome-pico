@@ -82,6 +82,9 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [μLA: Micro Logic Analyzer](https://github.com/dotcypress/ula) - SUMP/OLS compatible logic analyzer firmware for RP2040 based boards.
 - [Usb Sniffer Lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on a Raspberry Pi RP2040 that supports Low Speed and Full Speed modes.
 - [RP2040-TestPatternGenerator](https://github.com/nmur/RP2040-TestPatternGenerator) - A simple test pattern generator.
+- [pico-usb-blaster](https://github.com/thisiseth/pico-usb-blaster) - Altera USB-Blaster-compatible programmer.
+- [xvc-pico](https://github.com/kholia/xvc-pico) - Raspberry Pico powered Xilinx Virtual Cable - Xilinx JTAG Cable.
+- [RP2040-SWD-Programmer](https://github.com/Edith-Cowan-University-Racing/RP2040-SWD-Programmer) - SWD and UART Bridge.
 
 ### Other
 - [VGA Display](https://github.com/GregAC/pico-stuff/tree/main/pio_vga) - Running complex videogame graphics.
