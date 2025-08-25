@@ -50,8 +50,12 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [Speccy_P](https://github.com/billgilbert7000/Speccy_P) - ZX Spectrum Emulator on RP2040 OTG USB keyboard and USB mouse + PS/2 keyboard I2S sound, PSRAM 8Mb, HARD/Soft Turbosound.
 
 ### Instruments
+- [scoppy](https://github.com/fhdm-dev/scoppy) - Use your Rasperry Pi Pico and Android Phone as an Oscilloscope and Logic Analyzer.
+- [oscilloscope_rp2040](https://github.com/dgatf/oscilloscope_rp2040) - Oscilloscope with OpenHantek protocol.
+- [sigrok-pico](https://github.com/pico-coder/sigrok-pico) - rp2040 as a logic analyzer and oscilloscope with sigrok.
 - [μLA: Micro Logic Analyzer](https://github.com/dotcypress/ula) - SUMP/OLS compatible logic analyzer firmware for RP2040 based boards.
 - [Usb Sniffer Lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on a Raspberry Pi RP2040 that supports Low Speed and Full Speed modes.
+- [RP2040-TestPatternGenerator](https://github.com/nmur/RP2040-TestPatternGenerator) - A simple test pattern generator.
 
 ### Other
 - [VGA Display](https://github.com/GregAC/pico-stuff/tree/main/pio_vga) - Running complex videogame graphics.
