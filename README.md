@@ -5,7 +5,8 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 ## Documentation
 
 - [Pico Datasheet](https://datasheets.raspberrypi.org/pico/pico-datasheet.pdf) - Compact hardware specification (mechanical and electrical specification, circuit board), 30 pages
-- [RP2040 Datasheet](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) - In depth explanation of the RP2040 ARM Processor, everything from GPIO, DMA, ADC, to Peripherals and the Programmable Input/Output System, 647 pages
+- [RP2040 Datasheet](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) - In depth explanation of the RP2040 ARM Processor, everything from GPIO, DMA, ADC, to Peripherals and the Programmable Input/Output System, 642 pages
+- [RP2350 Datasheet](https://datasheets.raspberrypi.org/rp2350/rp2350-datasheet.pdf) - In depth explanation of the RP2350 ARM Processor, everything from GPIO, DMA, ADC, to Peripherals and the Programmable Input/Output System, 1380 pages
 - [Hardware design with RP2040](https://datasheets.raspberrypi.org/rp2040/hardware-design-with-rp2040.pdf) - Explains the RP2040 arm processor schematics and how to build additional hardware that incorporates this processor, 32 pages
 - [Getting started with Raspberry Pi Pico](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) - Manual for installing Pico development toolchain on Linux, Mac OSX, and Windows, and how to setup the C SDK or MicroPython development environments, 77 pages
 - [C/C++ development](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) - In depth explanation of the C/C++ SDK, its architecture, the full library, examples and a guide to the PIO state machines, 281 pages
@@ -35,7 +36,7 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [pico-nes](https://github.com/xrip/pico-nes) - NES (Nintendo Entertainment System) / Dendy Emulator for MURMULATOR devboard.
 - [pico-sms](https://github.com/xrip/pico-sms) - Sega Master System / Game Gear for MURMULATOR devboard.
 - [pico-smsplus](https://github.com/fhoedemakers/pico-smsplus) - Sega Master System & Game Gear Emulator with SD card and menu support.
-- [pico-megadrive](https://github.com/xrip/pico-megadrive) - ega Megadrive / Sega Genesis emulator for MURMULATOR devboard.
+- [pico-megadrive](https://github.com/xrip/pico-megadrive) - Sega Megadrive / Sega Genesis emulator for MURMULATOR devboard.
 - [pico-gameboy](https://github.com/xrip/pico-gameboy) - GameBoy Emulator for MURMULATOR devboard.
 - [Murmulator_rp2040](https://github.com/MadedCat/Murmulator_rp2040) - ZX Spectum emulation on RP2040.
 - [picocalc-umac](https://github.com/benob/picocalc-umac) - A stratforward port of pico-umac, the Macintosh emulator for pico.
