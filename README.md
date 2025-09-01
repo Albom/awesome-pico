@@ -23,6 +23,62 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) - CircuitPython downloads.
 - [rp-hal](https://github.com/rp-rs/rp-hal) - Rust support for the Raspberry Pi family of microcontrollers.
 
+### Libraries
+
+- [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32.
+- [BackgroundAudio](https://github.com/earlephilhower/BackgroundAudio) - Arduino library for easy, interrupt driven speech, MP3, AAC, and WAV playback on the Raspberry Pi Pico RP2040, Pico 2 RP2350, and ESP32.
+- [microphone-library-for-pico](https://github.com/ArmDeveloperEcosystem/microphone-library-for-pico) - Capture audio from a microphone on your Raspberry Pi Pico or any RP2040 based board.
+- [Joystick](https://github.com/benjaminaigner/Joystick) - Joystick Library for Arduino (RP2040 based boards).
+- [pico_dht](https://github.com/vmilea/pico_dht) - DHT sensor library.
+- [pico_rda5807](https://github.com/vmilea/pico_rda5807) - RDA5807 FM radio library.
+- [PCF8574_library](https://github.com/xreef/PCF8574_library) - PCF8574 library. i2c digital expander for Arduino, Raspberry Pi Pico and rp2040 boards, esp32, SMT32 and ESP8266. Can read write digital values with only 2 wire.
+- [PCF8575_library](https://github.com/xreef/PCF8575_library) - i2c 16bits digital expander with i2c digital expander for Arduino, Raspberry Pi Pico and rp2040 boards, esp32, SMT32 and ESP8266. Can read write digital values with only 2 wire.
+- [PCF8591_library](https://github.com/xreef/PCF8591_library) - Library to use pcf8591 i2c analog IC with Arduino, Raspberry Pi Pico and rp2040 boards, esp32, SMT32 and ESP8266. Can read analog value and write analog value with only 2 wire.
+- [rp2040-psram](https://github.com/polpo/rp2040-psram) - A header-only C library to allow access to SPI PSRAM via PIO on the RP2040 microcontroller.
+- [lorawan-library-for-pico](https://github.com/ArmDeveloperEcosystem/lorawan-library-for-pico) - Enable LoRaWAN communications on your Raspberry Pi Pico or any RP2040 based board. 
+- [pico-ssd1306](https://github.com/Harbys/pico-ssd1306) - SSD1306 OLED Library for RP2040.
+- [ESP32-targz](https://github.com/tobozo/ESP32-targz) - An Arduino library to compress/decompress tar, gz, and tar.gz files on ESP32, ESP8266 and RP2040.
+- [pico_i2c_slave](https://github.com/vmilea/pico_i2c_slave) - I2C slave library.
+- [OneWireNg](https://github.com/pstolarz/OneWireNg) - 1-wire service library. OneWire compatible. Dallas thermometers support.
+- [pico_spdif_rx](https://github.com/elehobica/pico_spdif_rx) - S/PDIF receiver library.
+- [pico-mcp2515](https://github.com/adamczykpiotr/pico-mcp2515) - MCP2515 CAN-Bus Interface Library.
+- [pico_fatfs](https://github.com/elehobica/pico_fatfs) - FatFs library for Raspberry Pi Pico / Pico 2 with SPI interface.
+- [pico-fmSynth](https://github.com/nyh-workshop/pico-fmSynth) - Basic DX9-inspired FM synth Arduino Library for Raspberry Pico RP2040 and RP2350.
+- [NeoPixelConnect](https://github.com/MrYsLab/NeoPixelConnect) - A PIO based WS2812 NeoPixel library for the Arduino Nano RP2040 Connect, and Raspberry Pi Pico.
+- [Raspberry-PICO2040-Flash-Storage](https://github.com/NegasonicX/Raspberry-PICO2040-Flash-Storage) - Library performs Flash Write, Read and Erase functions on Raspberry Pico 2040.
+- [displaylib_1bit_PICO](https://github.com/gavinlyonsrepo/displaylib_1bit_PICO) - Display Library for 1-bit color graphic displays for Raspberry PI PICO C++ SDK.
+- [LittleFS_Mbed_RP2040](https://github.com/khoih-prog/LittleFS_Mbed_RP2040) - Wrapper of LittleFS for Arduino MBED RP2040 boards. This library facilitates your usage of LittleFS for the onboard flash. LittleFS supports power fail safety and high performance.
+- [PicoStepper](https://github.com/DasenB/PicoStepper) - A Library to drive stepper motors.
+- [pico-servo](https://github.com/irishpatrick/pico-servo) - A simple Raspberry Pi Pico library for controlling servos.
+- [neopixel_rp2040](https://github.com/shreyask21/neopixel_rp2040) - Micropython Neopixel (WS2812B) Library.
+- [Pico-74HC595](https://github.com/mucahitkurtlar/Pico-74HC595) - Shift register 74HC595 header library.
+- [i2cperipheral](https://github.com/adamgreen/i2cperipheral) - MicroPython I2C Peripheral Library.
+- [hm01b0-library-for-pico](https://github.com/ArmDeveloperEcosystem/hm01b0-library-for-pico) - Capture monochrome images with a Himax HM01B0 based camera module.
+- [rp2040-uvc](https://github.com/yjdwbj/rp2040-uvc) - USB video class (UVC) for Pico.
+- [EZ_USB_MIDI_HOST](https://github.com/rppicomidi/EZ_USB_MIDI_HOST) - Add the Arduino MIDI Library API to the usb_midi_host TinyUSB MIDI Host driver.
+- [pico_stepper](https://github.com/beshrkayali/pico_stepper) - Stepper Library.
+- [RP2040-PWM-Tone](https://github.com/TuriSc/RP2040-PWM-Tone) - Tone generation library for Raspberry Pi Pico. Plays melodies and chirping sounds via PWM through a buzzer or speaker.
+- [rp2040-pico-shift-register-74HC595](https://github.com/admantium-sg/rp2040-pico-shift-register-74HC595) - C Library for working with the 74HC595 shift register.
+- [pico-vgaDisplay](https://github.com/tvlad1234/pico-vgaDisplay) - VGA display driver library for RP2040 pico-sdk.
+- [arduino-pico-i2s-audio](https://github.com/sfera-labs/arduino-pico-i2s-audio) - I2S digital audio input Arduino library.
+- [SerialIO](https://github.com/Witty-Wizard/SerialIO) - An Arduino library for decoding multiple RC protocols.
+- [pico_st7735_80x160](https://github.com/elehobica/pico_st7735_80x160) - ST7735 (80x160) library for Raspberry Pi Pico / Pico 2.
+- [pico_si470x](https://github.com/vmilea/pico_si470x) - Si4702 / Si4703 FM radio library.
+- [ADS1x15_PICO](https://github.com/gavinlyonsrepo/ADS1x15_PICO) - Library Driver for Analog to digital converters (ADC) ADS1015 and ADS1115 modules. RPI PICO RP2040 SDK C++.
+- [PicoSPI](https://github.com/MarkTillotson/PicoSPI) - Lightweight SPI library.
+- [rpi-pico-graphics-lib](https://github.com/seanbutler/rpi-pico-graphics-lib) - C/C++ graphics library.
+- [displaylib_LED_PICO](https://github.com/gavinlyonsrepo/displaylib_LED_PICO) - A SDK C++ library for a Raspberry PI PICO device to support HT16K33, MAX7219, TM1637 & TM1638 LED segment modules.
+- [RP2040-DMA](https://github.com/drtimcollins/RP2040-DMA) - Micropython library for the RP2040 DMA controller.
+- [RP2040_CPU_Temperature](https://github.com/DeimosHall/RP2040_CPU_Temperature) - Arduino library to read the temperature from the Raspberry Pi Pico's internal temperature sensor.
+- [i2s_32bit_rp2040](https://github.com/timbk/i2s_32bit_rp2040) - An up to 32bit I2S library for the RP2040 using PIO.
+- [pico-ds3231](https://github.com/alpertng02/pico-ds3231) - C library for DS3231 RTC module.
+- [usb_library_rp2040](https://github.com/dgatf/usb_library_rp2040) - A fast and lightweight USB device library for RP2040.
+- [RP2040PioServos](https://github.com/RadekVoltr/RP2040PioServos) - Servo library for up to 25 (32 is theoretical maximum) servos on Raspberry Pico.
+- [logging_system_embedded](https://github.com/wikilift/logging_system_embedded) - Light Logging Library for Embedded Systems RP2040 , ESP, ARDUINO.
+- [PCF8574_micropython_library](https://github.com/xreef/PCF8574_micropython_library) - MicroPython library for pcf8574 an i2c digital expander for Arduino, esp32, SMT32 and ESP8266. Can read write digital values with only 2 wire.
+- [pico-ws2812](https://github.com/PDBeal/pico-ws2812) - RP2040 library for controlling strips/pixels using WS2812 (NeoPixel) LEDs using PIO and the pico-sdk.
+- [kilipili](https://github.com/Megatokio/kilipili) - Raspberry Pico C++ Library: VGA video, graphics, ANSI term, USB host, Audio, SDCard.
+
 ### Simulators
 
 - [RP2040 PIO Simulator](https://github.com/soundpaint/rp2040pio) - Still in development, but promising PIO simulator. You upload a PIO program, and then can step-through the instructions. UI windows show which GPIO pins are active, or you can get a time-sequence of all pins.
