@@ -147,3 +147,4 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [Pico Tone Generation](https://github.com/martinkooij/pi-pico-tone) - Low-Level library to output tone by composing sound signals (e.g. sine waves).
 - [Pico Webserver](https://github.com/maxnet/pico-webserver) - Turn your Pico into an USB powered ethernet device running a web server.
 - [SD Card Manager](https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico) - A complete program with a CLI interface to format, write and read to an attached SD card with the ExFAT filesystem format.
+- [eurorack-cable-tester-pico](https://github.com/lucblender/eurorack-cable-tester-pico) - Simple eurorack (both 10 pins and 16 pins) cable tester. 
