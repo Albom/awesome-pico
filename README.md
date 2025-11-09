@@ -188,6 +188,7 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [ZX81\_USB\_KBD](https://github.com/ikjordan/ZX81_USB_KBD) - This CircuitPython code for the Raspberry Pi Pico 2040 allows a Sinclair ZX81 keyboard matrix to be used as the basis for a USB keyboard that can be used in Linux, MS Windows or for [picozx81](https://github.com/ikjordan/picozx81).
 - [SIDKick-pico](https://github.com/frntc/SIDKick-pico) - An inexpensive dual-SID-replacement for the C64 and C128.
 - [pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP.
+- [PicoROM](https://github.com/wickerwaka/PicoROM) - An RP2040-based ROM emulator.
 
 
 ### Other
