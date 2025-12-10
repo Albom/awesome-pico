@@ -87,6 +87,7 @@ This repository maintains a collection of documentation, tutorials, tools, artic
     + [RP2040PioServos](https://github.com/RadekVoltr/RP2040PioServos) - Servo library for up to 25 (32 is theoretical maximum) servos on Raspberry Pico.
 
 - Video
+    + [PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040.
     + [pico-vgaDisplay](https://github.com/tvlad1234/pico-vgaDisplay) - VGA display driver library for RP2040 pico-sdk.
     + [rp2040-uvc](https://github.com/yjdwbj/rp2040-uvc) - USB video class (UVC) for Pico.
     + [hm01b0-library-for-pico](https://github.com/ArmDeveloperEcosystem/hm01b0-library-for-pico) - Capture monochrome images with a Himax HM01B0 based camera module.
