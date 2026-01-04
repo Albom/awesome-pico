@@ -190,9 +190,9 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [SIDKick-pico](https://github.com/frntc/SIDKick-pico) - An inexpensive dual-SID-replacement for the C64 and C128.
 - [pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP.
 - [PicoROM](https://github.com/wickerwaka/PicoROM) - An RP2040-based ROM emulator.
-- [BlueSCSI-v2] (https://github.com/BlueSCSI/BlueSCSI-v2) - Open source, open hardware, SCSI emulator using the Pi Pico PR2040 and Pico 2 RP2350.
-- [atarist-sidecart-raspberry-pico] (https://github.com/sidecartridge/atarist-sidecart-raspberry-pico) - AtariST cartridge emulator based on Raspberry Pi Pico and RP2040.
-- [atari-st-rpikb] (https://github.com/trickydee/atari-st-rpikb) - Connect USB keyboard and mouse to Atari ST using a Raspberry PI emulating the HD6301 keyboard controller.
+- [BlueSCSI-v2](https://github.com/BlueSCSI/BlueSCSI-v2) - Open source, open hardware, SCSI emulator using the Pi Pico PR2040 and Pico 2 RP2350.
+- [atarist-sidecart-raspberry-pico](https://github.com/sidecartridge/atarist-sidecart-raspberry-pico) - AtariST cartridge emulator based on Raspberry Pi Pico and RP2040.
+- [atari-st-rpikb](https://github.com/trickydee/atari-st-rpikb) - Connect USB keyboard and mouse to Atari ST using a Raspberry PI emulating the HD6301 keyboard controller.
 
 
 ### Other
