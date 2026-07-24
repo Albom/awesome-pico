@@ -178,7 +178,7 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [RP2040-SWD-Programmer](https://github.com/Edith-Cowan-University-Racing/RP2040-SWD-Programmer) - SWD and UART Bridge.
 
 
-### Computer/Console parts and add-ons
+### Computer/Console/Calculator parts and add-ons
 - [ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM) - ISA PicoMEM Extension board (For 8086/8088 PC).
 - [ZuluIDE™](https://github.com/ZuluIDE) - a family of IDE/ATAPI computer storage emulation devices, developed by Rabbit Hole Computing, the creators of ZuluSCSI. ISOs/image files are stored on a standard FAT32 or exFAT-formatted SD card.
 - [PicoBoot](https://github.com/webhdx/PicoBoot) - Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube.
@@ -193,6 +193,7 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [BlueSCSI-v2](https://github.com/BlueSCSI/BlueSCSI-v2) - Open source, open hardware, SCSI emulator using the Pi Pico PR2040 and Pico 2 RP2350.
 - [atarist-sidecart-raspberry-pico](https://github.com/sidecartridge/atarist-sidecart-raspberry-pico) - AtariST cartridge emulator based on Raspberry Pi Pico and RP2040.
 - [atari-st-rpikb](https://github.com/trickydee/atari-st-rpikb) - Connect USB keyboard and mouse to Atari ST using a Raspberry PI emulating the HD6301 keyboard controller.
+- [PIMP](https://github.com/azya52/PIMP) - Raspberry Pi Pico SMP for MK-90.
 
 
 ### Other
