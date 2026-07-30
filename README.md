@@ -194,6 +194,7 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [atarist-sidecart-raspberry-pico](https://github.com/sidecartridge/atarist-sidecart-raspberry-pico) - AtariST cartridge emulator based on Raspberry Pi Pico and RP2040.
 - [atari-st-rpikb](https://github.com/trickydee/atari-st-rpikb) - Connect USB keyboard and mouse to Atari ST using a Raspberry PI emulating the HD6301 keyboard controller.
 - [PIMP](https://github.com/azya52/PIMP) - Raspberry Pi Pico SMP for MK-90.
+- [PicoFlasher](https://github.com/X360Tools/PicoFlasher) - Open source XBOX 360 NAND flasher firmware for Raspberry Pi Pico.
 
 
 ### Other
