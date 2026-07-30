@@ -203,3 +203,4 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [Pico Webserver](https://github.com/maxnet/pico-webserver) - Turn your Pico into an USB powered ethernet device running a web server.
 - [SD Card Manager](https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico) - A complete program with a CLI interface to format, write and read to an attached SD card with the ExFAT filesystem format.
 - [eurorack-cable-tester-pico](https://github.com/lucblender/eurorack-cable-tester-pico) - Simple eurorack (both 10 pins and 16 pins) cable tester. 
+- [pi-pico2-linux](https://github.com/Mr-Bossman/pi-pico2-linux) - RISC-V linux on the raspberry pi pico 2.
