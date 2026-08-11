@@ -197,10 +197,15 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [PicoFlasher](https://github.com/X360Tools/PicoFlasher) - Open source XBOX 360 NAND flasher firmware for Raspberry Pi Pico.
 
 
+### Musical instruments and accessories
+- [pico-dac-sampler](https://github.com/funkfinger/pico-dac-sampler) - Pico DAC Sampler - RP2040 Eurorack Drum Machine Module with multi-voice sample playback and real-time control.
+- [Acid\_Drip\_Bassline\_and\_Drum\_Synth](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) - All in one acid bassline and groove box - run off a Raspberry Pi Pico. 
+- [eurorack-cable-tester-pico](https://github.com/lucblender/eurorack-cable-tester-pico) - Simple eurorack (both 10 pins and 16 pins) cable tester. 
+
+
 ### Other
 - [VGA Display](https://github.com/GregAC/pico-stuff/tree/main/pio_vga) - Running complex videogame graphics.
 - [Pico Tone Generation](https://github.com/martinkooij/pi-pico-tone) - Low-Level library to output tone by composing sound signals (e.g. sine waves).
 - [Pico Webserver](https://github.com/maxnet/pico-webserver) - Turn your Pico into an USB powered ethernet device running a web server.
 - [SD Card Manager](https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico) - A complete program with a CLI interface to format, write and read to an attached SD card with the ExFAT filesystem format.
-- [eurorack-cable-tester-pico](https://github.com/lucblender/eurorack-cable-tester-pico) - Simple eurorack (both 10 pins and 16 pins) cable tester. 
 - [pi-pico2-linux](https://github.com/Mr-Bossman/pi-pico2-linux) - RISC-V linux on the raspberry pi pico 2.
