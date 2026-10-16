@@ -180,6 +180,7 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 
 ### Computer/Console/Calculator parts and add-ons
 - [DSPi](https://github.com/WeebLabs/DSPi) - A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). [Official Discord](https://discord.gg/RCyqxAQ5xS).
+- [pico-ttl2dvi](https://github.com/charlysan/pico-ttl2dvi) - RP2350 Based TTL Video To DVI Converter.
 - [ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM) - ISA PicoMEM Extension board (For 8086/8088 PC).
 - [ZuluIDE™](https://github.com/ZuluIDE) - a family of IDE/ATAPI computer storage emulation devices, developed by Rabbit Hole Computing, the creators of ZuluSCSI. ISOs/image files are stored on a standard FAT32 or exFAT-formatted SD card.
 - [PicoBoot](https://github.com/webhdx/PicoBoot) - Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube.
